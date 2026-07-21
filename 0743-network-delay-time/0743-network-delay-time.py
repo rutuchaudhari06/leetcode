@@ -11,7 +11,6 @@ class Solution:
         dist=[float('inf')]*(n+1)
         dist[k]=0
         pq=[]
-        vis=[0]*(n+1)
         heapq.heappush(pq,(0,k))
         while pq:
             time,node=heapq.heappop(pq)
