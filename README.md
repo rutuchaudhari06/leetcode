@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rutuchaudhari06/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rutuchaudhari06/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/rutuchaudhari06/leetcode/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/rutuchaudhari06/leetcode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/rutuchaudhari06/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/rutuchaudhari06/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/rutuchaudhari06/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/rutuchaudhari06/leetcode/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/rutuchaudhari06/leetcode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/rutuchaudhari06/leetcode/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rutuchaudhari06/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/rutuchaudhari06/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/rutuchaudhari06/leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/rutuchaudhari06/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rutuchaudhari06/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/rutuchaudhari06/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/rutuchaudhari06/leetcode/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/rutuchaudhari06/leetcode/tree/master/0621-task-scheduler) |
 ## Design
 |  |
 | ------- |
@@ -206,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rutuchaudhari06/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/rutuchaudhari06/leetcode/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/rutuchaudhari06/leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
