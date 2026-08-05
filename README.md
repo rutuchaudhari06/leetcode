@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rutuchaudhari06/leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/rutuchaudhari06/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rutuchaudhari06/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/rutuchaudhari06/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rutuchaudhari06/leetcode/tree/master/0213-house-robber-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rutuchaudhari06/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rutuchaudhari06/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/rutuchaudhari06/leetcode/tree/master/0621-task-scheduler) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rutuchaudhari06/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
